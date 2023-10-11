@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/mervegulyitmez/qr-code-component)
+- Live Site URL: (https://qr-code-component-i8ka.vercel.app)
 
 ## My process
 
